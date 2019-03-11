@@ -1,5 +1,7 @@
 # Avro-JSON-examples
 
+thank to [python-avro-json-serializer](https://github.com/linkedin/python-avro-json-serializer)
+
 this a full avro JSON example with :
 - nested record 
 - array of records 
