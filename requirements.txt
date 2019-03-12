@@ -1,2 +1,3 @@
 git+https://github.com/linkedin/python-avro-json-serializer.git
 pygments
+avro-python3
