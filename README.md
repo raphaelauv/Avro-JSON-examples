@@ -1,4 +1,4 @@
-# Avro-JSON-examples
+# Apache Avro JSON examples
 
 thank to [python-avro-json-serializer](https://github.com/linkedin/python-avro-json-serializer)
 
